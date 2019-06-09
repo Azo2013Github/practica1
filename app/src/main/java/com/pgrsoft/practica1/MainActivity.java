@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     //crear un metodo que hace la suma y de los numeros
     public void calcularView(View view){
-        Log.d("info",  "ENTRAMOS EN CALCULAR");
+        Log.d("info",  "ENTRAMOS EN CALCULAR ESTA FUNCION MOLAgit ");
 
         //  1 recoger el valor de EditText
         //  2 recoger el valor que hay en display

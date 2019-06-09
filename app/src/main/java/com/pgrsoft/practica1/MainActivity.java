@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     //crear un metodo que hace la suma y de los numeros
     public void calcularView(View view){
-        Log.d("info",  "ENTAMOS EN CALCULAR Y HEMOS PULSADO SOBRE EL BUTON");
+        Log.d("info",  "ENTRAMOS EN CALCULAR");
 
         //  1 recoger el valor de EditText
         //  2 recoger el valor que hay en display
